@@ -1,0 +1,13 @@
+
+{
+    "version": 1,
+    "storageDriverName": "azure-netapp-files",
+    "subscriptionID": "enterYourSubHere",
+    "tenantID": "enterYourTenantIdHere",
+    "clientID": "enterYourClientIdHere",
+    "clientSecret": "enterYourKeyHere",
+    "location": "westeurope",
+    "serviceLevel": "Premium",
+    "virtualNetwork": "enterYourVNETNameHere",
+    "subnet": "enterYourANFDelegatedSubnetNameHere"
+}
